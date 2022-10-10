@@ -1,2 +1,1 @@
-# scaling-palm-tree
-Django todoapp
+# scaling-palm-tr
